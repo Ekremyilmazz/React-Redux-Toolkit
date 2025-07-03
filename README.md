@@ -21,7 +21,7 @@ It serves as a step-by-step guide for learning the core concepts of Redux Toolki
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/react-redux-toolkit.git
+git clone https://github.com/Ekremyilmazz/React-Redux-Toolkit.git
 cd react-redux-toolkit
 npm install
 npm start
