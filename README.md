@@ -25,5 +25,16 @@ git clone https://github.com/yourusername/react-redux-toolkit.git
 cd react-redux-toolkit
 npm install
 npm start
+```
+## Next Steps
+To further improve this project, consider exploring:
+
+- API integration with RTK Query
+- Performance optimization using selectors
+- Managing normalized data with Entity Adapter
+- Writing and using custom middleware
+- Advanced TypeScript typings in Redux
+
+
 
 
