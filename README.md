@@ -35,6 +35,7 @@ To further improve this project, consider exploring:
 - Writing and using custom middleware
 - Advanced TypeScript typings in Redux
 
-
+## 📸 Screenshot
+![Image](https://github.com/user-attachments/assets/d0c4d963-ed17-4245-9196-770ed23a4473)
 
 
